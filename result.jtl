@@ -1,0 +1,99 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1670167293676,2755,POST User Request,200,OK,Thread Group 1-3,text,true,,398,378,7,7,https://petstore.swagger.io/v2/user,2751,0,2604
+1670167293676,2755,POST User Request,200,OK,Thread Group 1-7,text,true,,398,386,7,7,https://petstore.swagger.io/v2/user,2751,0,2599
+1670167293676,2753,POST User Request,200,OK,Thread Group 1-8,text,true,,398,386,7,7,https://petstore.swagger.io/v2/user,2751,0,2599
+1670167293676,2754,POST User Request,200,OK,Thread Group 1-1,text,true,,398,377,7,7,https://petstore.swagger.io/v2/user,2751,0,2600
+1670167293676,2755,POST User Request,200,OK,Thread Group 1-7,text,true,,398,386,7,7,https://petstore.swagger.io/v2/user,2751,0,2599
+1670167293676,2754,POST User Request,200,OK,Thread Group 1-1,text,true,,398,377,7,7,https://petstore.swagger.io/v2/user,2751,0,2600
+1670167293676,2753,POST User Request,200,OK,Thread Group 1-5,text,true,,398,375,7,7,https://petstore.swagger.io/v2/user,2751,0,2600
+1670167293676,2753,POST User Request,200,OK,Thread Group 1-5,text,true,,398,375,7,7,https://petstore.swagger.io/v2/user,2751,0,2600
+1670167293676,2754,POST User Request,200,OK,Thread Group 1-9,text,true,,398,375,7,7,https://petstore.swagger.io/v2/user,2751,0,2600
+1670167293676,2754,POST User Request,200,OK,Thread Group 1-9,text,true,,398,375,7,7,https://petstore.swagger.io/v2/user,2751,0,2600
+1670167293678,2751,POST User Request,200,OK,Thread Group 1-6,text,true,,398,379,7,7,https://petstore.swagger.io/v2/user,2749,0,2607
+1670167293676,2753,POST User Request,200,OK,Thread Group 1-8,text,true,,398,386,7,7,https://petstore.swagger.io/v2/user,2751,0,2599
+1670167293678,2751,POST User Request,200,OK,Thread Group 1-6,text,true,,398,379,7,7,https://petstore.swagger.io/v2/user,2749,0,2607
+1670167293676,2755,POST User Request,200,OK,Thread Group 1-3,text,true,,398,378,7,7,https://petstore.swagger.io/v2/user,2751,0,2604
+1670167296586,124,GET User by Username Request (after Create),200,OK,Thread Group 1-8,text,true,,501,188,7,7,https://petstore.swagger.io/v2/user/black_widow,123,0,0
+1670167296586,124,GET User by Username Request (after Create),200,OK,Thread Group 1-8,text,true,,501,188,7,7,https://petstore.swagger.io/v2/user/black_widow,123,0,0
+1670167296587,126,GET User by Username Request (after Create),200,OK,Thread Group 1-5,text,true,,490,181,7,7,https://petstore.swagger.io/v2/user/thor,125,0,0
+1670167296587,126,GET User by Username Request (after Create),200,OK,Thread Group 1-5,text,true,,490,181,7,7,https://petstore.swagger.io/v2/user/thor,125,0,0
+1670167296587,127,GET User by Username Request (after Create),200,OK,Thread Group 1-1,text,true,,492,185,7,7,https://petstore.swagger.io/v2/user/iron_man,126,0,0
+1670167296587,127,GET User by Username Request (after Create),200,OK,Thread Group 1-1,text,true,,492,185,7,7,https://petstore.swagger.io/v2/user/iron_man,126,0,0
+1670167296585,125,GET User by Username Request (after Create),200,OK,Thread Group 1-7,text,true,,501,192,7,7,https://petstore.swagger.io/v2/user/captain_america,125,0,0
+1670167296585,125,GET User by Username Request (after Create),200,OK,Thread Group 1-7,text,true,,501,192,7,7,https://petstore.swagger.io/v2/user/captain_america,125,0,0
+1670167296589,123,GET User by Username Request (after Create),200,OK,Thread Group 1-9,text,true,,490,181,7,7,https://petstore.swagger.io/v2/user/hulk,121,0,0
+1670167296589,123,GET User by Username Request (after Create),200,OK,Thread Group 1-9,text,true,,490,181,7,7,https://petstore.swagger.io/v2/user/hulk,121,0,0
+1670167296587,132,GET User by Username Request (after Create),200,OK,Thread Group 1-3,text,true,,493,184,7,7,https://petstore.swagger.io/v2/user/hawkeye,131,0,0
+1670167296587,132,GET User by Username Request (after Create),200,OK,Thread Group 1-3,text,true,,493,184,7,7,https://petstore.swagger.io/v2/user/hawkeye,131,0,0
+1670167296585,135,GET User by Username Request (after Create),200,OK,Thread Group 1-6,text,true,,494,183,7,7,https://petstore.swagger.io/v2/user/denkuc,135,0,0
+1670167296585,135,GET User by Username Request (after Create),200,OK,Thread Group 1-6,text,true,,494,183,7,7,https://petstore.swagger.io/v2/user/denkuc,135,0,0
+1670167296714,124,PUT User Request,200,OK,Thread Group 1-8,text,true,,398,397,7,7,https://petstore.swagger.io/v2/user/black_widow,123,0,0
+1670167296714,124,PUT User Request,200,OK,Thread Group 1-8,text,true,,398,397,7,7,https://petstore.swagger.io/v2/user/black_widow,123,0,0
+1670167296717,121,PUT User Request,200,OK,Thread Group 1-7,text,true,,398,401,7,7,https://petstore.swagger.io/v2/user/captain_america,121,0,0
+1670167296717,121,PUT User Request,200,OK,Thread Group 1-7,text,true,,398,401,7,7,https://petstore.swagger.io/v2/user/captain_america,121,0,0
+1670167296718,121,PUT User Request,200,OK,Thread Group 1-9,text,true,,398,379,7,7,https://petstore.swagger.io/v2/user/hulk,121,0,0
+1670167296718,121,PUT User Request,200,OK,Thread Group 1-9,text,true,,398,379,7,7,https://petstore.swagger.io/v2/user/hulk,121,0,0
+1670167296714,126,PUT User Request,200,OK,Thread Group 1-5,text,true,,398,379,7,7,https://petstore.swagger.io/v2/user/thor,126,0,0
+1670167296714,126,PUT User Request,200,OK,Thread Group 1-5,text,true,,398,379,7,7,https://petstore.swagger.io/v2/user/thor,126,0,0
+1670167296716,125,PUT User Request,200,OK,Thread Group 1-1,text,true,,398,385,7,7,https://petstore.swagger.io/v2/user/iron_man,125,0,0
+1670167296716,125,PUT User Request,200,OK,Thread Group 1-1,text,true,,398,385,7,7,https://petstore.swagger.io/v2/user/iron_man,125,0,0
+1670167296720,129,PUT User Request,200,OK,Thread Group 1-3,text,true,,398,385,7,7,https://petstore.swagger.io/v2/user/hawkeye,129,0,0
+1670167296720,129,PUT User Request,200,OK,Thread Group 1-3,text,true,,398,385,7,7,https://petstore.swagger.io/v2/user/hawkeye,129,0,0
+1670167296722,132,PUT User Request,200,OK,Thread Group 1-6,text,true,,398,385,7,7,https://petstore.swagger.io/v2/user/denkuc,132,0,0
+1670167296722,132,PUT User Request,200,OK,Thread Group 1-6,text,true,,398,385,7,7,https://petstore.swagger.io/v2/user/denkuc,132,0,0
+1670167296840,125,DELETE Initial User Request,200,OK,Thread Group 1-9,text,true,,383,203,7,7,https://petstore.swagger.io/v2/user/hulk,124,0,0
+1670167296838,127,DELETE Initial User Request,200,OK,Thread Group 1-8,text,true,,390,210,7,7,https://petstore.swagger.io/v2/user/black_widow,126,0,0
+1670167296840,125,DELETE Initial User Request,200,OK,Thread Group 1-9,text,true,,383,203,7,7,https://petstore.swagger.io/v2/user/hulk,124,0,0
+1670167296838,127,DELETE Initial User Request,200,OK,Thread Group 1-8,text,true,,390,210,7,7,https://petstore.swagger.io/v2/user/black_widow,126,0,0
+1670167296839,126,DELETE Initial User Request,200,OK,Thread Group 1-7,text,true,,394,214,7,7,https://petstore.swagger.io/v2/user/captain_america,126,0,0
+1670167296839,126,DELETE Initial User Request,200,OK,Thread Group 1-7,text,true,,394,214,7,7,https://petstore.swagger.io/v2/user/captain_america,126,0,0
+1670167296841,127,DELETE Initial User Request,200,OK,Thread Group 1-5,text,true,,383,203,7,7,https://petstore.swagger.io/v2/user/thor,126,0,0
+1670167296842,126,DELETE Initial User Request,200,OK,Thread Group 1-1,text,true,,387,207,7,7,https://petstore.swagger.io/v2/user/iron_man,125,0,0
+1670167296842,126,DELETE Initial User Request,200,OK,Thread Group 1-1,text,true,,387,207,7,7,https://petstore.swagger.io/v2/user/iron_man,125,0,0
+1670167296841,127,DELETE Initial User Request,200,OK,Thread Group 1-5,text,true,,383,203,7,7,https://petstore.swagger.io/v2/user/thor,126,0,0
+1670167296850,129,DELETE Initial User Request,200,OK,Thread Group 1-3,text,true,,386,206,7,7,https://petstore.swagger.io/v2/user/hawkeye,129,0,0
+1670167296850,129,DELETE Initial User Request,200,OK,Thread Group 1-3,text,true,,386,206,7,7,https://petstore.swagger.io/v2/user/hawkeye,129,0,0
+1670167296855,133,DELETE Initial User Request,200,OK,Thread Group 1-6,text,true,,385,205,7,7,https://petstore.swagger.io/v2/user/denkuc,133,0,0
+1670167296855,133,DELETE Initial User Request,200,OK,Thread Group 1-6,text,true,,385,205,7,7,https://petstore.swagger.io/v2/user/denkuc,133,0,0
+1670167296965,123,GET Updated User by Username Request,200,OK,Thread Group 1-8,text,true,,501,188,7,7,https://petstore.swagger.io/v2/user/black_widow,123,0,0
+1670167296965,123,GET Updated User by Username Request,200,OK,Thread Group 1-8,text,true,,501,188,7,7,https://petstore.swagger.io/v2/user/black_widow,123,0,0
+1670167296965,125,GET Updated User by Username Request,200,OK,Thread Group 1-9,text,true,,490,181,7,7,https://petstore.swagger.io/v2/user/hulk,125,0,0
+1670167296965,125,GET Updated User by Username Request,200,OK,Thread Group 1-9,text,true,,490,181,7,7,https://petstore.swagger.io/v2/user/hulk,125,0,0
+1670167296967,124,GET Updated User by Username Request,200,OK,Thread Group 1-7,text,true,,501,192,7,7,https://petstore.swagger.io/v2/user/captain_america,124,0,0
+1670167296967,124,GET Updated User by Username Request,200,OK,Thread Group 1-7,text,true,,501,192,7,7,https://petstore.swagger.io/v2/user/captain_america,124,0,0
+1670167296969,125,GET Updated User by Username Request,200,OK,Thread Group 1-5,text,true,,490,181,7,7,https://petstore.swagger.io/v2/user/thor,124,0,0
+1670167296969,125,GET Updated User by Username Request,200,OK,Thread Group 1-5,text,true,,490,181,7,7,https://petstore.swagger.io/v2/user/thor,124,0,0
+1670167296968,126,GET Updated User by Username Request,200,OK,Thread Group 1-1,text,true,,492,185,7,7,https://petstore.swagger.io/v2/user/iron_man,125,0,0
+1670167296968,126,GET Updated User by Username Request,200,OK,Thread Group 1-1,text,true,,492,185,7,7,https://petstore.swagger.io/v2/user/iron_man,125,0,0
+1670167296980,129,GET Updated User by Username Request,200,OK,Thread Group 1-3,text,true,,493,184,7,7,https://petstore.swagger.io/v2/user/hawkeye,128,0,0
+1670167296980,129,GET Updated User by Username Request,200,OK,Thread Group 1-3,text,true,,493,184,7,7,https://petstore.swagger.io/v2/user/hawkeye,128,0,0
+1670167296989,133,GET Updated User by Username Request,200,OK,Thread Group 1-6,text,true,,494,183,7,7,https://petstore.swagger.io/v2/user/denkuc,132,0,0
+1670167296989,133,GET Updated User by Username Request,200,OK,Thread Group 1-6,text,true,,494,183,7,7,https://petstore.swagger.io/v2/user/denkuc,132,0,0
+1670167297090,122,DELETE Updated User Request,200,OK,Thread Group 1-8,text,true,,390,210,7,7,https://petstore.swagger.io/v2/user/black_widow,121,0,0
+1670167297090,122,DELETE Updated User Request,200,OK,Thread Group 1-8,text,true,,390,210,7,7,https://petstore.swagger.io/v2/user/black_widow,121,0,0
+1670167297092,121,DELETE Updated User Request,200,OK,Thread Group 1-9,text,true,,383,203,7,7,https://petstore.swagger.io/v2/user/hulk,121,0,0
+1670167297092,121,DELETE Updated User Request,200,OK,Thread Group 1-9,text,true,,383,203,7,7,https://petstore.swagger.io/v2/user/hulk,121,0,0
+1670167297093,122,DELETE Updated User Request,200,OK,Thread Group 1-7,text,true,,394,214,7,7,https://petstore.swagger.io/v2/user/captain_america,122,0,0
+1670167297093,122,DELETE Updated User Request,200,OK,Thread Group 1-7,text,true,,394,214,7,7,https://petstore.swagger.io/v2/user/captain_america,122,0,0
+1670167297095,125,DELETE Updated User Request,200,OK,Thread Group 1-1,text,true,,387,207,7,7,https://petstore.swagger.io/v2/user/iron_man,124,0,0
+1670167297095,125,DELETE Updated User Request,200,OK,Thread Group 1-5,text,true,,383,203,7,7,https://petstore.swagger.io/v2/user/thor,124,0,0
+1670167297095,125,DELETE Updated User Request,200,OK,Thread Group 1-1,text,true,,387,207,7,7,https://petstore.swagger.io/v2/user/iron_man,124,0,0
+1670167297095,125,DELETE Updated User Request,200,OK,Thread Group 1-5,text,true,,383,203,7,7,https://petstore.swagger.io/v2/user/thor,124,0,0
+1670167297111,129,DELETE Updated User Request,200,OK,Thread Group 1-3,text,true,,386,206,7,7,https://petstore.swagger.io/v2/user/hawkeye,129,0,0
+1670167297111,129,DELETE Updated User Request,200,OK,Thread Group 1-3,text,true,,386,206,7,7,https://petstore.swagger.io/v2/user/hawkeye,129,0,0
+1670167297123,133,DELETE Updated User Request,200,OK,Thread Group 1-6,text,true,,385,205,7,7,https://petstore.swagger.io/v2/user/denkuc,133,0,0
+1670167297123,133,DELETE Updated User Request,200,OK,Thread Group 1-6,text,true,,385,205,7,7,https://petstore.swagger.io/v2/user/denkuc,133,0,0
+1670167297212,121,GET 404 User by Username Request (after Delete),404,Not Found,Thread Group 1-8,text,true,,396,188,7,7,https://petstore.swagger.io/v2/user/black_widow,121,0,0
+1670167297214,121,GET 404 User by Username Request (after Delete),404,Not Found,Thread Group 1-9,text,true,,396,181,7,7,https://petstore.swagger.io/v2/user/hulk,121,0,0
+1670167297212,121,GET 404 User by Username Request (after Delete),404,Not Found,Thread Group 1-8,text,true,,396,188,7,7,https://petstore.swagger.io/v2/user/black_widow,121,0,0
+1670167297214,121,GET 404 User by Username Request (after Delete),404,Not Found,Thread Group 1-9,text,true,,396,181,7,7,https://petstore.swagger.io/v2/user/hulk,121,0,0
+1670167297216,124,GET 404 User by Username Request (after Delete),404,Not Found,Thread Group 1-7,text,true,,396,192,7,7,https://petstore.swagger.io/v2/user/captain_america,123,0,0
+1670167297216,124,GET 404 User by Username Request (after Delete),404,Not Found,Thread Group 1-7,text,true,,396,192,7,7,https://petstore.swagger.io/v2/user/captain_america,123,0,0
+1670167297220,134,GET 404 User by Username Request (after Delete),404,Not Found,Thread Group 1-5,text,true,,396,181,4,4,https://petstore.swagger.io/v2/user/thor,134,0,0
+1670167297220,134,GET 404 User by Username Request (after Delete),404,Not Found,Thread Group 1-5,text,true,,396,181,4,4,https://petstore.swagger.io/v2/user/thor,134,0,0
+1670167297220,139,GET 404 User by Username Request (after Delete),404,Not Found,Thread Group 1-1,text,true,,396,185,4,4,https://petstore.swagger.io/v2/user/iron_man,139,0,0
+1670167297220,139,GET 404 User by Username Request (after Delete),404,Not Found,Thread Group 1-1,text,true,,396,185,4,4,https://petstore.swagger.io/v2/user/iron_man,139,0,0
+1670167297241,129,GET 404 User by Username Request (after Delete),404,Not Found,Thread Group 1-3,text,true,,396,184,2,2,https://petstore.swagger.io/v2/user/hawkeye,128,0,0
+1670167297241,129,GET 404 User by Username Request (after Delete),404,Not Found,Thread Group 1-3,text,true,,396,184,2,2,https://petstore.swagger.io/v2/user/hawkeye,128,0,0
+1670167297257,133,GET 404 User by Username Request (after Delete),404,Not Found,Thread Group 1-6,text,true,,396,183,1,1,https://petstore.swagger.io/v2/user/denkuc,132,0,0
+1670167297257,133,GET 404 User by Username Request (after Delete),404,Not Found,Thread Group 1-6,text,true,,396,183,1,1,https://petstore.swagger.io/v2/user/denkuc,132,0,0
